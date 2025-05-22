@@ -69,7 +69,7 @@ Museum-of-candy/
 
 ## 🙏 Special Thanks
 
-> This project is inspired by the web development course from **[Colt Steele](https://www.coltsteele.com/)**.  
+> This project is inspired by the web development course from **Colt Steele**.  
 > His engaging and beginner-friendly teaching helped shape this project into something both fun and functional. 🍭🎓
 
 ---
